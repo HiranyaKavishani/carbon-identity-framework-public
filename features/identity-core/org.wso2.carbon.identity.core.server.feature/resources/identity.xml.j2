@@ -2645,4 +2645,7 @@
     {% endfor %}
     </EmailTemplatePlaceholders>
 
+    <!-- Configuration for allowing admins to introspect tokens from other tenants. -->
+    <AllowCrossTenantTokenIntrospection>{{oauth.introspect.allow_cross_tenant}}</AllowCrossTenantTokenIntrospection>
+
 </Server>

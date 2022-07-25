@@ -1909,4 +1909,6 @@
         <ApplicationName>My Account</ApplicationName>
     </SystemApplications>
 
+    <!-- Configuration for allowing admins to introspect tokens from other tenants. -->
+    <AllowCrossTenantTokenIntrospection>true</AllowCrossTenantTokenIntrospection>
 </Server>
