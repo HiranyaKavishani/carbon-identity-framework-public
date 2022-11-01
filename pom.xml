@@ -18,7 +18,7 @@
     <groupId>org.wso2.carbon.identity.framework</groupId>
     <artifactId>identity-framework</artifactId>
     <packaging>pom</packaging>
-    <version>5.18.248.6</version>
+    <version>5.18.248.7-SNAPSHOT</version>
     <name>WSO2 Carbon - Platform Aggregator Pom</name>
     <url>http://wso2.org</url>
 
@@ -33,7 +33,7 @@
         <developerConnection>scm:git:https://github.com/wso2-support/carbon-identity-framework.git</developerConnection>
         <connection>scm:git:https://github.com/wso2-support/carbon-identity-framework.git</connection>
         
-      <tag>v5.18.248.6</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <modules>
